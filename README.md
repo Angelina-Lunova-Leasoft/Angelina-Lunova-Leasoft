@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # 📈 Profile Stats
 
-|              ![](https://github-profile-trophy.vercel.app/?username=Angelina-Lunova-Leasoft&theme=onedark&row=2&column=4)               | ![](https://github-readme-streak-stats.herokuapp.com?user=Angelina-Lunova-Leasoft&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=356&theme=onedark) |
-|:-------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelina-Lunova-Leasoft&layout=donut&hide_border=true&theme=onedark) |
-|      ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Angelina-Lunova-Leasoft&theme=onedark)       |           ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Angelina-Lunova-Leasoft&theme=onedark&utcOffset=8)           |
+| | |
+|:---:|:---:|
+| ![](https://github-profile-trophy.vercel.app/?username=Angelina-Lunova-Leasoft&theme=onedark&row=2&column=4) | ![](https://github-readme-streak-stats.herokuapp.com?user=Angelina-Lunova-Leasoft&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=356&theme=onedark) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelina-Lunova-Leasoft&layout=donut&hide_border=true&theme=onedark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Angelina-Lunova-Leasoft&theme=onedark) |
+| \ | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Angelina-Lunova-Leasoft&theme=onedark&utcOffset=3) |
 
 ---
