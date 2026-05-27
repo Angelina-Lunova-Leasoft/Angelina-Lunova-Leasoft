@@ -1,19 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Lina
 
-<!--
-**Angelina-Lunova-Leasoft/Angelina-Lunova-Leasoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **QA Automation Engineer** with a strong manual background. I help teams release with more confidence, spend less time on manual checks, and save hours every sprint.
 
-Here are some ideas to get you started:
+### 🎯 What I Do
+* **Web & Mobile Automation:** Broad experience across platforms using TypeScript/JavaScript, Playwright, WebdriverIO, and Appium.
+* **Smart & Efficient Frameworks:** I build architectures with API-backed setups and reusable blocks so tests start in a realistic state without long manual prep.
+* **Real Edge Cases:** My manual QA background helps me look beyond basic happy paths and find critical bugs in complex workflows like login, registration, and payment flows.
+* **Tailored Approach:** I don't push a fixed stack. I choose the approach, tools, and budget that fit your product — ensuring stable tests and reports people actually use.
+* **Dual-Audience Reporting:** Clear Allure dashboards for managers and product stakeholders, combined with deep technical traces and screenshots for faster engineering fixes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
 # 🛠 Tools & Technologies
 
@@ -43,13 +39,3 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Allure%20Report-FF6A00?style=for-the-badge&logo=allure&logoColor=white" />
 </p>
-
----
-
-# 📈 Profile Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Angelina-Lunova-Leasoft&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=356&theme=onedark" height="180" />
-</p>
-
-
