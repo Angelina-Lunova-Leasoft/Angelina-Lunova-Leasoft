@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Angelina-Lunova-Leasoft&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=356&theme=onedark" height="180" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Angelina-Lunova-Leasoft&theme=onedark" height="180" />
 </p>
 
 ---
