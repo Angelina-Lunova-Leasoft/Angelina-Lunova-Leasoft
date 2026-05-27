@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 
 # 📈 Profile Stats
 
-| | |
-|:---:|:---:|
-| ![](https://github-profile-trophy.vercel.app/?username=Angelina-Lunova-Leasoft&theme=onedark&row=2&column=4) | ![](https://github-readme-streak-stats.herokuapp.com?user=Angelina-Lunova-Leasoft&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=356&theme=onedark) |
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelina-Lunova-Leasoft&layout=donut&hide_border=true&theme=onedark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Angelina-Lunova-Leasoft&theme=onedark) |
-| \ | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Angelina-Lunova-Leasoft&theme=onedark&utcOffset=3) |
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Angelina-Lunova-Leasoft&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=356&theme=onedark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelina-Lunova-Leasoft&layout=donut&hide_border=true&theme=onedark" height="180" />
+</p>
 
----
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Angelina-Lunova-Leasoft&theme=onedark" width="380" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Angelina-Lunova-Leasoft&theme=onedark&utcOffset=3" width="380" />
+</p>
