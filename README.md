@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Angelina-Lunova-Leasoft&theme=onedark&utcOffset=3" width="740" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Angelina-Lunova-Leasoft&theme=onedark&utcOffset=3" width="450" />
 </p>
 
 ---
