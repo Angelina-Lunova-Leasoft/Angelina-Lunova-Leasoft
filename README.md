@@ -15,14 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 📈 Profile Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Angelina-Lunova-Leasoft&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=356&theme=onedark" height="180" />
-</p>
-
----
-
 # 🛠 Tools & Technologies
 
 ### 💻 Languages & Core
@@ -51,3 +43,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Allure%20Report-FF6A00?style=for-the-badge&logo=allure&logoColor=white" />
 </p>
+
+---
+
+# 📈 Profile Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Angelina-Lunova-Leasoft&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=356&theme=onedark" height="180" />
+</p>
+
+
